@@ -7,7 +7,7 @@ ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC1MPQSGKqA9bkKtQUXR
 
 ocpus = 4
 memory_in_gbs = 24
-wait_s_for_retry = 15
+wait_s_for_retry = 10
 
 import oci
 import logging
